@@ -1,1 +1,0 @@
-# Examples in Apache Spark
